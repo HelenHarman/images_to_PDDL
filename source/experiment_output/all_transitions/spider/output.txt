@@ -1,0 +1,1 @@
+[{'num_action_definitions': 1, 'obj_and_action_def_creation_time': [103.46581196784973], 'domain': 'spider', 'num_transitions': 48, 'percentage_missing': 0, 'per_goal': [{'init': 13, 'problem_gen_time': [0.000713348388671875], 'plan_to_images_time': [0.05418825149536133], 'goal': 28, 'plan_length': [2], 'planning_time': [0.000915013]}], 'option': {'height': 2, 'width': 2}}]

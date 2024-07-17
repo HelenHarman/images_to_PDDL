@@ -1,0 +1,1 @@
+[{'obj_and_action_def_creation_time': [8.229745864868164], 'per_goal': [{'problem_gen_time': [0.0004999637603759766], 'init': 21, 'plan_length': [6], 'planning_time': [0.00103322], 'plan_to_images_time': [0.0005345344543457031], 'goal': 2}], 'percentage_missing': 0, 'domain': 'mandrill', 'option': {'width': 2, 'height': 2}, 'num_transitions': 48, 'num_action_definitions': 1}]

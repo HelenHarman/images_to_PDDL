@@ -1,0 +1,1 @@
+[{'per_goal': [], 'num_transitions': -1, 'domain': 'toh', 'option': {'towers': 3, 'blocks': 2}, 'num_locations': -1, 'obj_and_action_def_creation_time': -1, 'percentage_missing': 0, 'num_action_definitions': -1, 'num_image_objects': -1}]

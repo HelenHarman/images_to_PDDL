@@ -1,0 +1,1 @@
+[[{'per_goal': [{'planning_time': [0.292929], 'problem_gen_time': [0.0017278194427490234], 'plan_to_images_time': [2.2411346435546875e-05], 'goal': 25952, 'plan_length': [0], 'init': 46554}], 'option': {'size': 4}, 'num_locations': 16, 'num_image_objects': 1, 'domain': 'lights', 'percentage_missing': 0, 'obj_creation_time': [2.428358793258667], 'num_action_definitions': 15}]]
